@@ -11,6 +11,8 @@ careerbuzz
 
 arduino ide / vscode with extensions for 4180
 
+what is T(n)?
+
 
 8/27    2040 HW1
         2040 Exercise 2
