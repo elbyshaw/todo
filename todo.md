@@ -1,7 +1,9 @@
 # todo
 
 update resume
-sign up for flash chat
+how to write a verilog testbench for silicon jackets wiki :)
+cadence
+
 go over syllabi and collect new skills
 header files? and include? preventing double inclusions?
 wacom for diego?
@@ -12,8 +14,8 @@ arduino ide / vscode with extensions for 4180
 physical design meetings?
 
 
-8/26    3510 HW1
 8/27    2040 HW1
+        2040 Exercise 2
 
 syllabi:
 4180
