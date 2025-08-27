@@ -7,7 +7,6 @@ cadence and veda iit digital physical design cert
 how to write a verilog testbench for silicon jackets wiki :)
 SJ dictionary: gdsii, tapeout, netlist, etc
 
-python/tcl script to add hyperlinks to existing doc
 
 
 
@@ -15,6 +14,7 @@ python/tcl script to add hyperlinks to existing doc
 
 9/02    3510 HW2
 9/04    3803 exam
+9/07    1040 wellness wheel + reflection
 
 
 syllabi:
@@ -39,3 +39,8 @@ hyprland
 keyboard
 pc
 website
+
+# sjwiki
+python/tcl script to add hyperlinks to existing doc
+relocate assets to wiki directory to keep wiki self-contained
+develop styleguide
