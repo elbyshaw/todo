@@ -40,3 +40,12 @@ what is T(n)?
 go over syllabi and collect new skills
 header files? and include? preventing double inclusions?
 update resume
+
+
+
+# "completed" projects
+nix
+arch
+hyprland
+keyboard
+pc
