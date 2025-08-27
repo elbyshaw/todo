@@ -7,13 +7,9 @@ cadence and veda iit digital physical design cert
 how to write a verilog testbench for silicon jackets wiki :)
 SJ dictionary: gdsii, tapeout, netlist, etc
 
-wacom for diego?
+python/tcl script to add hyperlinks to existing doc
 
-arduino ide / vscode with extensions for 4180
 
-lab0 tomorrow morning
-
-code a chip competition?
 
 
 
@@ -32,6 +28,7 @@ what is T(n)?
 go over syllabi and collect new skills
 header files? and include? preventing double inclusions?
 update resume
+code a chip competition?
 
 
 
@@ -41,3 +38,4 @@ arch
 hyprland
 keyboard
 pc
+website
