@@ -13,7 +13,7 @@ SJ dictionary: gdsii, tapeout, netlist, etc
 
 
 9/02    3510 HW2
-9/04    3803 exam
+9/04    3803 exam   
 
 
 syllabi:
@@ -46,3 +46,4 @@ website
 python/tcl script to add hyperlinks to existing doc
 relocate assets to wiki directory to keep wiki self-contained
 develop styleguide
+ 
