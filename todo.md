@@ -14,7 +14,6 @@ SJ dictionary: gdsii, tapeout, netlist, etc
 
 9/02    3510 HW2
 9/04    3803 exam
-9/07    1040 wellness wheel + reflection
 
 
 syllabi:
@@ -39,6 +38,9 @@ hyprland
 keyboard
 pc
 website
+
+
+
 
 # sjwiki
 python/tcl script to add hyperlinks to existing doc
