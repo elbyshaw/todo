@@ -18,21 +18,10 @@ SJ dictionary: gdsii, tapeout, netlist, etc
 
 # open ended
 careerbuzz
-what is T(n)?
 go over syllabi and collect new skills
-header files? and include? preventing double inclusions?
-update resume
-code a chip competition?
 
 
 
-# "completed" projects
-nix
-arch
-hyprland
-keyboard
-pc
-website
 
 
 
@@ -41,3 +30,11 @@ website
 python/tcl script to add hyperlinks to existing doc
 relocate assets to wiki directory to keep wiki self-contained
 develop styleguide
+
+# "completed" projects
+nix
+arch
+hyprland
+keyboard
+pc
+website
