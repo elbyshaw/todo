@@ -4,6 +4,7 @@
 cadenec tool flow cadence rtl to gdsii flow v5.0 (used for new employee training at apple lol)
 
 how to write a verilog testbench for silicon jackets wiki :)
+
 SJ dictionary: gdsii, tapeout, netlist, etc
 
 
@@ -18,7 +19,6 @@ SJ dictionary: gdsii, tapeout, netlist, etc
 
 # open ended
 careerbuzz
-go over syllabi and collect new skills
 
 
 
