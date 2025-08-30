@@ -7,7 +7,7 @@ how to write a verilog testbench for silicon jackets wiki :)
 
 SJ dictionary: gdsii, tapeout, netlist, etc
 
-
+watch 4180 lecture recording
 
 
 
