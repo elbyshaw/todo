@@ -24,7 +24,9 @@ STmicro
 tsmc
 cadence
 synopsis
-
+ibm
+qualcomm
+broadcomm
 
 
 
